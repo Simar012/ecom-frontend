@@ -23,7 +23,7 @@ if(close){
 //     })
 // }
 // sproduct image swiper
-if(window.location.href == 'sproduct.html'){
+// if(window.location.href == 'sproduct.html'){
     small[0].onclick = function(){
         main.src = small[0].src
     }
@@ -36,4 +36,4 @@ if(window.location.href == 'sproduct.html'){
     small[3].onclick = function(){
         main.src = small[3].src
     }
-}
+// }
